@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.css": "/react-search-movies-by-name/static/css/main.7acaea2f.css",
-    "main.js": "/react-search-movies-by-name/static/js/main.07d3183d.js",
+    "main.css": "/react-search-movies-by-name/static/css/main.fd621848.css",
+    "main.js": "/react-search-movies-by-name/static/js/main.1a7d21da.js",
+    "static/js/946.fc819643.chunk.js": "/react-search-movies-by-name/static/js/946.fc819643.chunk.js",
+    "static/js/706.fd8f89f2.chunk.js": "/react-search-movies-by-name/static/js/706.fd8f89f2.chunk.js",
+    "static/js/11.10b233d5.chunk.js": "/react-search-movies-by-name/static/js/11.10b233d5.chunk.js",
+    "static/js/770.0d025443.chunk.js": "/react-search-movies-by-name/static/js/770.0d025443.chunk.js",
+    "static/js/447.151a212c.chunk.js": "/react-search-movies-by-name/static/js/447.151a212c.chunk.js",
+    "static/js/377.cc060858.chunk.js": "/react-search-movies-by-name/static/js/377.cc060858.chunk.js",
+    "static/js/128.25571aa1.chunk.js": "/react-search-movies-by-name/static/js/128.25571aa1.chunk.js",
     "index.html": "/react-search-movies-by-name/index.html",
-    "main.7acaea2f.css.map": "/react-search-movies-by-name/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-search-movies-by-name/static/js/main.07d3183d.js.map"
+    "main.fd621848.css.map": "/react-search-movies-by-name/static/css/main.fd621848.css.map",
+    "main.1a7d21da.js.map": "/react-search-movies-by-name/static/js/main.1a7d21da.js.map",
+    "946.fc819643.chunk.js.map": "/react-search-movies-by-name/static/js/946.fc819643.chunk.js.map",
+    "706.fd8f89f2.chunk.js.map": "/react-search-movies-by-name/static/js/706.fd8f89f2.chunk.js.map",
+    "11.10b233d5.chunk.js.map": "/react-search-movies-by-name/static/js/11.10b233d5.chunk.js.map",
+    "770.0d025443.chunk.js.map": "/react-search-movies-by-name/static/js/770.0d025443.chunk.js.map",
+    "447.151a212c.chunk.js.map": "/react-search-movies-by-name/static/js/447.151a212c.chunk.js.map",
+    "377.cc060858.chunk.js.map": "/react-search-movies-by-name/static/js/377.cc060858.chunk.js.map",
+    "128.25571aa1.chunk.js.map": "/react-search-movies-by-name/static/js/128.25571aa1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.fd621848.css",
+    "static/js/main.1a7d21da.js"
   ]
 }
